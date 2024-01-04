@@ -1,6 +1,19 @@
+import Navbar from "../components/Navbar"
+
 const Home = () => {
   return (
-    <div>Home page is the best </div>
+
+    <div className="Home-page-outer-div">
+
+
+    <Navbar/>
+
+
+
+
+
+    </div>
+
   )
 }
 
